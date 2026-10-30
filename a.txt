@@ -1,0 +1,2 @@
+git config --global user.name "Huu Truyen"
+git config --global user.email huutruyen.nguyen@catthaicorp.com
